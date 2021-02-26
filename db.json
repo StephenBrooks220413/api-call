@@ -1,0 +1,34 @@
+{
+      events: [
+        {
+          id: "5928101",
+          category: "plugins",
+          title: "You can add plugins from vue cli",
+          location: "www.vue.org",
+          date: "February 26, 2021",
+          time: "12pm",
+          layouts: "MDB5",
+          author: "Stephen Brooks"
+        },
+        {
+          id: "5928102",
+          category: "dependencies",
+          title: "You can add plugins from vue cli",
+          location: "www.vue.org",
+          date: "February 26, 2021",
+          time: "12pm",
+          layouts: "MDB5",
+          author: "Stephen Brooks"
+        },
+        {
+          id: "5928103",
+          category: "frameworks",
+          title: "You can add plugins from vue cli",
+          location: "www.vue.org",
+          date: "February 26, 2021",
+          time: "12pm",
+          layouts: "MDB5",
+          author: "Stephen Brooks"
+        }
+      ]
+};
